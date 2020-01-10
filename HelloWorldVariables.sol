@@ -14,7 +14,7 @@ int
 uint -> uint256
 unsigned 256bit (mul of 8)
 int varaibles wrap automatically
-ex uint8 (0-255) if -- at 0 =0 if ++ at 255 =255
+ex uint8 (0-255) if -- at 0 = 255 if ++ at 255 =0
 int8 (-127 to 127)
 
 address
